@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c7262f1f-4452-4d08-9b23-655b110d51a7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Chainblock.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ChainblockImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Transaction.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/TransactionImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/TransactionStatus.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/ChainblockImplTest.class" beforeDir="false" />
-    </list>
+    <list default="true" id="c7262f1f-4452-4d08-9b23-655b110d51a7" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -141,49 +130,53 @@
       <option name="presentableId" value="Default" />
       <updated>1615751285237</updated>
     </task>
+    <task id="LOCAL-00001" summary="Ex_Test_Driven_Development">
+      <created>1617962542761</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1617962542761</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
-  <component name="TestHistory">
-    <history-entry file="ChainblockImplTest_testGetByIdWhitValidId - 2021.03.15 at 17h 32m 58s.xml">
-      <configuration name="ChainblockImplTest.testGetByIdWhitValidId" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ChainblockImplTest_testRemoveTransactionByValidId - 2021.03.15 at 17h 33m 30s.xml">
-      <configuration name="ChainblockImplTest.testRemoveTransactionByValidId" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ChainblockImplTest_testRemoveTransactionByValidId - 2021.03.15 at 17h 34m 04s.xml">
-      <configuration name="ChainblockImplTest.testRemoveTransactionByValidId" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ChainblockImplTest_getByTransactionStatusTrue - 2021.03.15 at 17h 34m 48s.xml">
-      <configuration name="ChainblockImplTest.getByTransactionStatusTrue" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ChainblockImplTest_testgetBySenderOrderedByAmountDescending - 2021.03.15 at 17h 36m 24s.xml">
-      <configuration name="ChainblockImplTest.testgetBySenderOrderedByAmountDescending" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ChainblockImplTest_testgetBySenderOrderedByAmountDescendingWhitoutValidSender - 2021.03.15 at 17h 36m 51s.xml">
-      <configuration name="ChainblockImplTest.testgetBySenderOrderedByAmountDescendingWhitoutValidSender" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ChainblockImplTest_testGetByReceiverOrderedByAmountThenById - 2021.03.15 at 17h 37m 08s.xml">
-      <configuration name="ChainblockImplTest.testGetByReceiverOrderedByAmountThenById" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ChainblockImplTest_testGetByReceiverOrderedByAmountThenByIdWhitOutTransaction - 2021.03.15 at 17h 37m 24s.xml">
-      <configuration name="ChainblockImplTest.testGetByReceiverOrderedByAmountThenByIdWhitOutTransaction" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ChainblockImplTest - 2021.03.15 at 17h 39m 46s.xml">
-      <configuration name="ChainblockImplTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ChainblockImplTest_testRemoveTransactionByValidId - 2021.03.16 at 16h 35m 34s.xml">
-      <configuration name="ChainblockImplTest.testRemoveTransactionByValidId" configurationId="JUnit" />
-    </history-entry>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Ex_Test_Driven_Development" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ex_Test_Driven_Development" />
   </component>
   <component name="WindowStateProjectService">
     <state x="163" y="0" key="#Project_Structure" timestamp="1617962478157">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="163" y="0" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1617962478157" />
+    <state x="231" y="0" key="CommitChangelistDialog2" timestamp="1617962540105">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="231" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1617962540105" />
+    <state width="1322" height="173" key="GridCell.Tab.0.bottom" timestamp="1617962781306">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="173" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1617962781306" />
+    <state width="1322" height="173" key="GridCell.Tab.0.center" timestamp="1617962781306">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="173" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1617962781306" />
+    <state width="1322" height="173" key="GridCell.Tab.0.left" timestamp="1617962781306">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="173" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1617962781306" />
+    <state width="1322" height="173" key="GridCell.Tab.0.right" timestamp="1617962781306">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="173" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1617962781306" />
     <state x="184" y="0" key="SettingsEditor" timestamp="1617962370732">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1617962370732" />
+    <state x="275" y="95" key="Vcs.Push.Dialog.v2" timestamp="1617962565275">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="95" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1617962565275" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
