@@ -1,98 +1,350 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8b70553a-52b7-45cd-bd08-4f3e7b783e16" name="Default Changelist" comment="" />
-    <ignored path="$PROJECT_DIR$/out/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="8b70553a-52b7-45cd-bd08-4f3e7b783e16" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Java OOP Exam - 16 Aug 2020/.idea/Java OOP Exam - 16 Aug 2020.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java OOP Exam - 16 Aug 2020/Computers/Computers.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java OOP Exam - 16 Aug 2020/OnlineShop/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java OOP Retake Exam - 22 Aug 2020/EasterRaces/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Mentormate_Test/.idea/Mentormate_Test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Mentormate_Test/Mentormate_Test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../OOP_EXAM/.idea/OOP_EXAM.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../OOP_EXAM/UNIT/UnitTesting.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exam_Preparation_!/hell/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exam_Preparation_!/hell/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java OOP Exam - 12 Dec 2020/Bakery/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java OOP Exam - 12 Dec 2020/Bakery/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java OOP Exam - 16 Aug 2020/OnlineShop/out/production/OnlineShop/onlineShop.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java OOP Exam - 16 Aug 2020/OnlineShop/out/production/OnlineShop/onlineShop/models/products/computers/BaseComputer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java OOP Exam - 16 Aug 2020/OnlineShop/out/production/OnlineShop/onlineShop/models/products/computers/BaseComputer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java OOP Retake Exam - 22 Aug 2020/EasterRaces/src/easterRaces/repositories/CarRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java OOP Retake Exam - 22 Aug 2020/EasterRaces/src/easterRaces/repositories/CarRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java OOP Retake Exam - 22 Aug 2020/EasterRaces/src/easterRaces/repositories/DriverRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java OOP Retake Exam - 22 Aug 2020/EasterRaces/src/easterRaces/repositories/DriverRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/OOP.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/OOP.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C10_Polymorphism_EX/C1_Vehicles/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C10_Polymorphism_EX/C1_Vehicles/Car.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C10_Polymorphism_EX/C1_Vehicles/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C10_Polymorphism_EX/C1_Vehicles/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C10_Polymorphism_EX/C1_Vehicles/Truck.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C10_Polymorphism_EX/C1_Vehicles/Truck.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C10_Polymorphism_EX/C1_Vehicles/Vehicles.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C10_Polymorphism_EX/C1_Vehicles/Vehicles.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C10_Polymorphism_EX/C2_VehiclesExtension/Bus.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C10_Polymorphism_EX/C2_VehiclesExtension/Bus.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C10_Polymorphism_EX/C2_VehiclesExtension/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C10_Polymorphism_EX/C2_VehiclesExtension/Car.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C10_Polymorphism_EX/C2_VehiclesExtension/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C10_Polymorphism_EX/C2_VehiclesExtension/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C10_Polymorphism_EX/C2_VehiclesExtension/Truck.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C10_Polymorphism_EX/C2_VehiclesExtension/Truck.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C10_Polymorphism_EX/C2_VehiclesExtension/Vehicle.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C10_Polymorphism_EX/C2_VehiclesExtension/Vehicle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C10_Polymorphism_EX/C3_Wild_Farm/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C10_Polymorphism_EX/C3_Wild_Farm/Animal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C10_Polymorphism_EX/C3_Wild_Farm/Cat.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C10_Polymorphism_EX/C3_Wild_Farm/Cat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C10_Polymorphism_EX/C3_Wild_Farm/Feline.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C10_Polymorphism_EX/C3_Wild_Farm/Feline.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C10_Polymorphism_EX/C3_Wild_Farm/Food.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C10_Polymorphism_EX/C3_Wild_Farm/Food.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C10_Polymorphism_EX/C3_Wild_Farm/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C10_Polymorphism_EX/C3_Wild_Farm/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C10_Polymorphism_EX/C3_Wild_Farm/Mammal.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C10_Polymorphism_EX/C3_Wild_Farm/Mammal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C10_Polymorphism_EX/C3_Wild_Farm/Meat.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C10_Polymorphism_EX/C3_Wild_Farm/Meat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C10_Polymorphism_EX/C3_Wild_Farm/Mouse.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C10_Polymorphism_EX/C3_Wild_Farm/Mouse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C10_Polymorphism_EX/C3_Wild_Farm/Tiger.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C10_Polymorphism_EX/C3_Wild_Farm/Tiger.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C10_Polymorphism_EX/C3_Wild_Farm/Vegetable.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C10_Polymorphism_EX/C3_Wild_Farm/Vegetable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C10_Polymorphism_EX/C3_Wild_Farm/Zebra.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C10_Polymorphism_EX/C3_Wild_Farm/Zebra.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C10_Polymorphism_EX/C5_calculator/CalculationEngine.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C10_Polymorphism_EX/C5_calculator/CalculationEngine.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C10_Polymorphism_EX/C5_calculator/DivisionOperation.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C10_Polymorphism_EX/C5_calculator/DivisionOperation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C10_Polymorphism_EX/C5_calculator/Extensions.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C10_Polymorphism_EX/C5_calculator/Extensions.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C10_Polymorphism_EX/C5_calculator/InputInterpreter.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C10_Polymorphism_EX/C5_calculator/InputInterpreter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C10_Polymorphism_EX/C5_calculator/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C10_Polymorphism_EX/C5_calculator/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C10_Polymorphism_EX/C5_calculator/MemoryRecalOperation.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C10_Polymorphism_EX/C5_calculator/MemoryRecalOperation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C10_Polymorphism_EX/C5_calculator/MemorySaveOperation.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C10_Polymorphism_EX/C5_calculator/MemorySaveOperation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C10_Polymorphism_EX/C5_calculator/MultiplicationOperation.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C10_Polymorphism_EX/C5_calculator/MultiplicationOperation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C10_Polymorphism_EX/C5_calculator/Operation.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C10_Polymorphism_EX/C5_calculator/Operation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C10_Polymorphism_EX/word/Command.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C10_Polymorphism_EX/word/Command.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C10_Polymorphism_EX/word/CommandImpl$Cut.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C10_Polymorphism_EX/word/CommandImpl$Cut.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C10_Polymorphism_EX/word/CommandImpl$Paste.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C10_Polymorphism_EX/word/CommandImpl$Paste.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C10_Polymorphism_EX/word/CommandImpl$ToUpperTransform.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C10_Polymorphism_EX/word/CommandImpl$ToUpperTransform.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C10_Polymorphism_EX/word/CommandImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C10_Polymorphism_EX/word/CommandImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C10_Polymorphism_EX/word/CommandInterface.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C10_Polymorphism_EX/word/CommandInterface.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C10_Polymorphism_EX/word/Initialization.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C10_Polymorphism_EX/word/Initialization.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C10_Polymorphism_EX/word/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C10_Polymorphism_EX/word/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C10_Polymorphism_EX/word/TextTransform.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C10_Polymorphism_EX/word/TextTransform.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C11_solidLab/p01_SingleResponsibility/p01_DrawingShape/DrawingManagerImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C11_solidLab/p01_SingleResponsibility/p01_DrawingShape/DrawingManagerImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C11_solidLab/p01_SingleResponsibility/p01_DrawingShape/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C11_solidLab/p01_SingleResponsibility/p01_DrawingShape/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C11_solidLab/p01_SingleResponsibility/p01_DrawingShape/Rectangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C11_solidLab/p01_SingleResponsibility/p01_DrawingShape/Rectangle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C11_solidLab/p01_SingleResponsibility/p01_DrawingShape/interfaces/DrawingManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C11_solidLab/p01_SingleResponsibility/p01_DrawingShape/interfaces/DrawingManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C11_solidLab/p01_SingleResponsibility/p01_DrawingShape/interfaces/DrawingRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C11_solidLab/p01_SingleResponsibility/p01_DrawingShape/interfaces/DrawingRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C11_solidLab/p01_SingleResponsibility/p01_DrawingShape/interfaces/Rengerer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C11_solidLab/p01_SingleResponsibility/p01_DrawingShape/interfaces/Rengerer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C11_solidLab/p01_SingleResponsibility/p01_DrawingShape/interfaces/Shape.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C11_solidLab/p01_SingleResponsibility/p01_DrawingShape/interfaces/Shape.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C11_solidLab/p02_OpenClosedPrinciple/p01_FileStream/File.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C11_solidLab/p02_OpenClosedPrinciple/p01_FileStream/File.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C11_solidLab/p02_OpenClosedPrinciple/p01_FileStream/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C11_solidLab/p02_OpenClosedPrinciple/p01_FileStream/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C11_solidLab/p02_OpenClosedPrinciple/p01_FileStream/Music.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C11_solidLab/p02_OpenClosedPrinciple/p01_FileStream/Music.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C11_solidLab/p02_OpenClosedPrinciple/p01_FileStream/Progress.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C11_solidLab/p02_OpenClosedPrinciple/p01_FileStream/Progress.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C11_solidLab/p02_OpenClosedPrinciple/p01_FileStream/ProgressIml.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C11_solidLab/p02_OpenClosedPrinciple/p01_FileStream/ProgressIml.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C11_solidLab/p02_OpenClosedPrinciple/p02_DrawingShape/Circle.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C11_solidLab/p02_OpenClosedPrinciple/p02_DrawingShape/Circle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C11_solidLab/p02_OpenClosedPrinciple/p02_DrawingShape/DrawingManagerImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C11_solidLab/p02_OpenClosedPrinciple/p02_DrawingShape/DrawingManagerImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C11_solidLab/p02_OpenClosedPrinciple/p02_DrawingShape/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C11_solidLab/p02_OpenClosedPrinciple/p02_DrawingShape/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C11_solidLab/p02_OpenClosedPrinciple/p02_DrawingShape/Rectangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C11_solidLab/p02_OpenClosedPrinciple/p02_DrawingShape/Rectangle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C11_solidLab/p02_OpenClosedPrinciple/p02_DrawingShape/Triangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C11_solidLab/p02_OpenClosedPrinciple/p02_DrawingShape/Triangle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C11_solidLab/p02_OpenClosedPrinciple/p02_DrawingShape/interfaces/DrawingManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C11_solidLab/p02_OpenClosedPrinciple/p02_DrawingShape/interfaces/DrawingManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C11_solidLab/p02_OpenClosedPrinciple/p02_DrawingShape/interfaces/Shape.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C11_solidLab/p02_OpenClosedPrinciple/p02_DrawingShape/interfaces/Shape.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C11_solidLab/p02_OpenClosedPrinciple/p03_ShoppingCart/Cart.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C11_solidLab/p02_OpenClosedPrinciple/p03_ShoppingCart/Cart.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C11_solidLab/p02_OpenClosedPrinciple/p03_ShoppingCart/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C11_solidLab/p02_OpenClosedPrinciple/p03_ShoppingCart/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C11_solidLab/p02_OpenClosedPrinciple/p03_ShoppingCart/OnlineOrder.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C11_solidLab/p02_OpenClosedPrinciple/p03_ShoppingCart/OnlineOrder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C11_solidLab/p02_OpenClosedPrinciple/p03_ShoppingCart/Order.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C11_solidLab/p02_OpenClosedPrinciple/p03_ShoppingCart/Order.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C11_solidLab/p02_OpenClosedPrinciple/p03_ShoppingCart/OrderItem.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C11_solidLab/p02_OpenClosedPrinciple/p03_ShoppingCart/OrderItem.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C11_solidLab/p03_LiskovSubstitution/p01_Square/Circle.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C11_solidLab/p03_LiskovSubstitution/p01_Square/Circle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C11_solidLab/p03_LiskovSubstitution/p01_Square/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C11_solidLab/p03_LiskovSubstitution/p01_Square/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C11_solidLab/p03_LiskovSubstitution/p01_Square/Rectangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C11_solidLab/p03_LiskovSubstitution/p01_Square/Rectangle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C11_solidLab/p03_LiskovSubstitution/p01_Square/Shape.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C11_solidLab/p03_LiskovSubstitution/p01_Square/Shape.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C11_solidLab/p03_LiskovSubstitution/p01_Square/Square.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C11_solidLab/p03_LiskovSubstitution/p01_Square/Square.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C11_solidLab/p04_InterfaceSegregation/p02_identity/AccountController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C11_solidLab/p04_InterfaceSegregation/p02_identity/AccountController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C11_solidLab/p04_InterfaceSegregation/p02_identity/AccountManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C11_solidLab/p04_InterfaceSegregation/p02_identity/AccountManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C11_solidLab/p04_InterfaceSegregation/p02_identity/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C11_solidLab/p04_InterfaceSegregation/p02_identity/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C11_solidLab/p04_InterfaceSegregation/p02_identity/interfaces/Account.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C11_solidLab/p04_InterfaceSegregation/p02_identity/interfaces/Account.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C11_solidLab/p04_InterfaceSegregation/p02_identity/interfaces/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C11_solidLab/p04_InterfaceSegregation/p02_identity/interfaces/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C11_solidLab/p04_InterfaceSegregation/p02_identity/interfaces/UserImp.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C11_solidLab/p04_InterfaceSegregation/p02_identity/interfaces/UserImp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C11_solidLab/p05_DependencyInversion/p01_HelloWord/HelloWorld.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C11_solidLab/p05_DependencyInversion/p01_HelloWord/HelloWorld.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C11_solidLab/p05_DependencyInversion/p01_HelloWord/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C11_solidLab/p05_DependencyInversion/p01_HelloWord/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C11_solidLab/p05_DependencyInversion/p02_Worker/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C11_solidLab/p05_DependencyInversion/p02_Worker/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C11_solidLab/p05_DependencyInversion/p02_Worker/Manager.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C11_solidLab/p05_DependencyInversion/p02_Worker/Manager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C11_solidLab/p05_DependencyInversion/p02_Worker/Worker.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C11_solidLab/p05_DependencyInversion/p02_Worker/Worker.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C11_solidLab/p05_DependencyInversion/p03_Database/Course.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C11_solidLab/p05_DependencyInversion/p03_Database/Course.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C11_solidLab/p05_DependencyInversion/p03_Database/Courses.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C11_solidLab/p05_DependencyInversion/p03_Database/Courses.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C11_solidLab/p05_DependencyInversion/p03_Database/Data.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C11_solidLab/p05_DependencyInversion/p03_Database/Data.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C11_solidLab/p05_DependencyInversion/p03_Database/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C11_solidLab/p05_DependencyInversion/p03_Database/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C13_Reflection_and_Annotations/C1_Reflection/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C13_Reflection_and_Annotations/C1_Reflection/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C13_Reflection_and_Annotations/C1_Reflection/Reflection.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C13_Reflection_and_Annotations/C1_Reflection/Reflection.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C13_Reflection_and_Annotations/C2_Getters_and_Setters/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C13_Reflection_and_Annotations/C2_Getters_and_Setters/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C13_Reflection_and_Annotations/C2_Getters_and_Setters/Reflection.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C13_Reflection_and_Annotations/C2_Getters_and_Setters/Reflection.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C13_Reflection_and_Annotations/C3_High_Quality_Mistakes/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C13_Reflection_and_Annotations/C3_High_Quality_Mistakes/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C13_Reflection_and_Annotations/C3_High_Quality_Mistakes/Reflection.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C13_Reflection_and_Annotations/C3_High_Quality_Mistakes/Reflection.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C13_Reflection_and_Annotations/C4_Create_Annotation/Subject.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C13_Reflection_and_Annotations/C4_Create_Annotation/Subject.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C13_Reflection_and_Annotations/C5_Coding_Tracker/Author.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C13_Reflection_and_Annotations/C5_Coding_Tracker/Author.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C13_Reflection_and_Annotations/C5_Coding_Tracker/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C13_Reflection_and_Annotations/C5_Coding_Tracker/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C13_Reflection_and_Annotations/C5_Coding_Tracker/Tracker.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C13_Reflection_and_Annotations/C5_Coding_Tracker/Tracker.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C14_Exercises_Reflection/C1_Harvesting_Fields/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C14_Exercises_Reflection/C1_Harvesting_Fields/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C14_Exercises_Reflection/C1_Harvesting_Fields/RichSoilLand.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C14_Exercises_Reflection/C1_Harvesting_Fields/RichSoilLand.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C14_Exercises_Reflection/C2_Black_Box_Integer/BlackBoxInt.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C14_Exercises_Reflection/C2_Black_Box_Integer/BlackBoxInt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C14_Exercises_Reflection/C2_Black_Box_Integer/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C14_Exercises_Reflection/C2_Black_Box_Integer/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C15_Design_Patterns_Lab/C1_Singleton_Pattern/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C15_Design_Patterns_Lab/C1_Singleton_Pattern/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C15_Design_Patterns_Lab/C1_Singleton_Pattern/SingeltonConteiner.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C15_Design_Patterns_Lab/C1_Singleton_Pattern/SingeltonConteiner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C15_Design_Patterns_Lab/C1_Singleton_Pattern/SingletonDataContainer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C15_Design_Patterns_Lab/C1_Singleton_Pattern/SingletonDataContainer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C15_Design_Patterns_Lab/C2_Façade_Pattern/Facade.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C15_Design_Patterns_Lab/C2_Façade_Pattern/Facade.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C15_Design_Patterns_Lab/C2_Façade_Pattern/MyPaimentAPI.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C15_Design_Patterns_Lab/C2_Façade_Pattern/MyPaimentAPI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C15_Design_Patterns_Lab/C2_Façade_Pattern/PaimentApi.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C15_Design_Patterns_Lab/C2_Façade_Pattern/PaimentApi.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C15_Design_Patterns_Lab/C3_Clone_Pattern/Chair.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C15_Design_Patterns_Lab/C3_Clone_Pattern/Chair.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C15_Design_Patterns_Lab/C3_Clone_Pattern/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C15_Design_Patterns_Lab/C3_Clone_Pattern/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C15_Design_Patterns_Lab/C3_Clone_Pattern/ProtoType.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C15_Design_Patterns_Lab/C3_Clone_Pattern/ProtoType.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C15_Design_Patterns_Lab/C4_Builder_Pattern/Adress.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C15_Design_Patterns_Lab/C4_Builder_Pattern/Adress.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C15_Design_Patterns_Lab/C4_Builder_Pattern/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C15_Design_Patterns_Lab/C4_Builder_Pattern/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C15_Design_Patterns_Lab/C5_Command_Pattern/Comand.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C15_Design_Patterns_Lab/C5_Command_Pattern/Comand.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C15_Design_Patterns_Lab/C5_Command_Pattern/Invoker.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C15_Design_Patterns_Lab/C5_Command_Pattern/Invoker.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C15_Design_Patterns_Lab/C5_Command_Pattern/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C15_Design_Patterns_Lab/C5_Command_Pattern/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C15_Design_Patterns_Lab/C5_Command_Pattern/PrintNameCommand.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C15_Design_Patterns_Lab/C5_Command_Pattern/PrintNameCommand.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C15_Design_Patterns_Lab/C5_Command_Pattern/PrintRandomNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C15_Design_Patterns_Lab/C5_Command_Pattern/PrintRandomNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C16_Design_Paterns_EX/Factory_Patern/Factory.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C16_Design_Paterns_EX/Factory_Patern/Factory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C16_Design_Paterns_EX/Factory_Patern/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C16_Design_Paterns_EX/Factory_Patern/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C16_Design_Paterns_EX/Factory_Patern/data/DataStorage.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C16_Design_Paterns_EX/Factory_Patern/data/DataStorage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C16_Design_Paterns_EX/Factory_Patern/model/Enemy.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C16_Design_Paterns_EX/Factory_Patern/model/Enemy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C16_Design_Paterns_EX/Factory_Patern/model/GameObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C16_Design_Paterns_EX/Factory_Patern/model/GameObject.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C16_Design_Paterns_EX/Factory_Patern/model/Initializer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C16_Design_Paterns_EX/Factory_Patern/model/Initializer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C16_Design_Paterns_EX/Factory_Patern/model/Player.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C16_Design_Paterns_EX/Factory_Patern/model/Player.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C16_Design_Paterns_EX/Factory_Patern/share/EnemyFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C16_Design_Paterns_EX/Factory_Patern/share/EnemyFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C16_Design_Paterns_EX/Factory_Patern/share/InitialingGameObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C16_Design_Paterns_EX/Factory_Patern/share/InitialingGameObject.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C16_Design_Paterns_EX/Factory_Patern/share/PlayerFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C16_Design_Paterns_EX/Factory_Patern/share/PlayerFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C16_Design_Paterns_EX/Factory_Patern/share/ProductMultiply.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C16_Design_Paterns_EX/Factory_Patern/share/ProductMultiply.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C1_Abstraction/C1_Rhombus_Stars.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C1_Abstraction/C1_Rhombus_Stars.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C1_Abstraction/C2_Point_in_Rectangle/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C1_Abstraction/C2_Point_in_Rectangle/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C1_Abstraction/C2_Point_in_Rectangle/Point.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C1_Abstraction/C2_Point_in_Rectangle/Point.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C1_Abstraction/C2_Point_in_Rectangle/Rectangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C1_Abstraction/C2_Point_in_Rectangle/Rectangle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C1_Abstraction/C3_Student_System/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C1_Abstraction/C3_Student_System/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C1_Abstraction/C3_Student_System/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C1_Abstraction/C3_Student_System/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C1_Abstraction/C3_Student_System/StudentSystem.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C1_Abstraction/C3_Student_System/StudentSystem.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C1_Abstraction/C4_Hotel_Reservation/Discount.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C1_Abstraction/C4_Hotel_Reservation/Discount.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C1_Abstraction/C4_Hotel_Reservation/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C1_Abstraction/C4_Hotel_Reservation/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C1_Abstraction/C4_Hotel_Reservation/Season.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C1_Abstraction/C4_Hotel_Reservation/Season.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C2_Abstraction_Ex/C1_Card_Suit/Card.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C2_Abstraction_Ex/C1_Card_Suit/Card.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C2_Abstraction_Ex/C1_Card_Suit/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C2_Abstraction_Ex/C1_Card_Suit/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C2_Abstraction_Ex/C2_Card_Rank/Card_Rank.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C2_Abstraction_Ex/C2_Card_Rank/Card_Rank.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C2_Abstraction_Ex/C2_Card_Rank/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C2_Abstraction_Ex/C2_Card_Rank/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C2_Abstraction_Ex/C3_Cards_with_Power/CardSuitpowers.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C2_Abstraction_Ex/C3_Cards_with_Power/CardSuitpowers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C2_Abstraction_Ex/C3_Cards_with_Power/CardsRankpowers.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C2_Abstraction_Ex/C3_Cards_with_Power/CardsRankpowers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C2_Abstraction_Ex/C3_Cards_with_Power/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C2_Abstraction_Ex/C3_Cards_with_Power/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C2_Abstraction_Ex/C4_Traffic_Lights/Lampe.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C2_Abstraction_Ex/C4_Traffic_Lights/Lampe.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C2_Abstraction_Ex/C4_Traffic_Lights/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C2_Abstraction_Ex/C4_Traffic_Lights/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C2_Abstraction_Ex/C5_Jedi_Galaxy/Jedi.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C2_Abstraction_Ex/C5_Jedi_Galaxy/Jedi.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C2_Abstraction_Ex/C6_Greedy_Times/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C2_Abstraction_Ex/C6_Greedy_Times/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C2_Abstraction_Ex/C_5Jedi_Galaxy/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C2_Abstraction_Ex/C_5Jedi_Galaxy/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C3_ENCAPSULATION/C1_Sort_by_Name_and_Age/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C3_ENCAPSULATION/C1_Sort_by_Name_and_Age/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C3_ENCAPSULATION/C1_Sort_by_Name_and_Age/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C3_ENCAPSULATION/C1_Sort_by_Name_and_Age/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C3_ENCAPSULATION/C2_Salary_Increase/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C3_ENCAPSULATION/C2_Salary_Increase/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C3_ENCAPSULATION/C2_Salary_Increase/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C3_ENCAPSULATION/C2_Salary_Increase/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C3_ENCAPSULATION/C3_Validation_Data/C4_First_and_Reserve_Team/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C3_ENCAPSULATION/C3_Validation_Data/C4_First_and_Reserve_Team/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C3_ENCAPSULATION/C3_Validation_Data/C4_First_and_Reserve_Team/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C3_ENCAPSULATION/C3_Validation_Data/C4_First_and_Reserve_Team/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C3_ENCAPSULATION/C3_Validation_Data/C4_First_and_Reserve_Team/Team.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C3_ENCAPSULATION/C3_Validation_Data/C4_First_and_Reserve_Team/Team.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C3_ENCAPSULATION/C3_Validation_Data/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C3_ENCAPSULATION/C3_Validation_Data/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C3_ENCAPSULATION/C3_Validation_Data/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C3_ENCAPSULATION/C3_Validation_Data/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C4_Encapsulation_Ex/C1_Class_Box/Box.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C4_Encapsulation_Ex/C1_Class_Box/Box.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C4_Encapsulation_Ex/C1_Class_Box/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C4_Encapsulation_Ex/C1_Class_Box/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C4_Encapsulation_Ex/C2_Animal_Farm/Chicken.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C4_Encapsulation_Ex/C2_Animal_Farm/Chicken.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C4_Encapsulation_Ex/C2_Animal_Farm/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C4_Encapsulation_Ex/C2_Animal_Farm/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C4_Encapsulation_Ex/C3_Shopping_Spre/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C4_Encapsulation_Ex/C3_Shopping_Spre/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C4_Encapsulation_Ex/C3_Shopping_Spre/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C4_Encapsulation_Ex/C3_Shopping_Spre/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C4_Encapsulation_Ex/C3_Shopping_Spre/Product.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C4_Encapsulation_Ex/C3_Shopping_Spre/Product.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C4_Encapsulation_Ex/Pizza_Calories/Dough.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C4_Encapsulation_Ex/Pizza_Calories/Dough.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C4_Encapsulation_Ex/Pizza_Calories/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C4_Encapsulation_Ex/Pizza_Calories/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C4_Encapsulation_Ex/Pizza_Calories/Pizza.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C4_Encapsulation_Ex/Pizza_Calories/Pizza.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C4_Encapsulation_Ex/Pizza_Calories/Topping.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C4_Encapsulation_Ex/Pizza_Calories/Topping.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C5_Inheritance/C1_Single_Inherita/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C5_Inheritance/C1_Single_Inherita/Animal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C5_Inheritance/C1_Single_Inherita/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C5_Inheritance/C1_Single_Inherita/Dog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C5_Inheritance/C1_Single_Inherita/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C5_Inheritance/C1_Single_Inherita/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C5_Inheritance/C2_Multiple_Inheritance/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C5_Inheritance/C2_Multiple_Inheritance/Animal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C5_Inheritance/C2_Multiple_Inheritance/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C5_Inheritance/C2_Multiple_Inheritance/Dog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C5_Inheritance/C2_Multiple_Inheritance/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C5_Inheritance/C2_Multiple_Inheritance/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C5_Inheritance/C2_Multiple_Inheritance/Puppy.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C5_Inheritance/C2_Multiple_Inheritance/Puppy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C5_Inheritance/C3_Hierarchical_Inheritance/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C5_Inheritance/C3_Hierarchical_Inheritance/Animal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C5_Inheritance/C3_Hierarchical_Inheritance/Cat.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C5_Inheritance/C3_Hierarchical_Inheritance/Cat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C5_Inheritance/C3_Hierarchical_Inheritance/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C5_Inheritance/C3_Hierarchical_Inheritance/Dog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C5_Inheritance/C3_Hierarchical_Inheritance/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C5_Inheritance/C3_Hierarchical_Inheritance/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C5_Inheritance/C4_Random_Array_List/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C5_Inheritance/C4_Random_Array_List/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C5_Inheritance/C4_Random_Array_List/RandomArrayList.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C5_Inheritance/C4_Random_Array_List/RandomArrayList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C5_Inheritance/C6_Stack_of_Strings/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C5_Inheritance/C6_Stack_of_Strings/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C5_Inheritance/C6_Stack_of_Strings/StackOfStrings.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C5_Inheritance/C6_Stack_of_Strings/StackOfStrings.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C6_Inheritance_Ex/C1_Person/Child.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C6_Inheritance_Ex/C1_Person/Child.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C6_Inheritance_Ex/C1_Person/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C6_Inheritance_Ex/C1_Person/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C6_Inheritance_Ex/C1_Person/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C6_Inheritance_Ex/C1_Person/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C6_Inheritance_Ex/NeedForSpeed/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C6_Inheritance_Ex/NeedForSpeed/Car.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C6_Inheritance_Ex/NeedForSpeed/CrossMotorcycle.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C6_Inheritance_Ex/NeedForSpeed/CrossMotorcycle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C6_Inheritance_Ex/NeedForSpeed/FamilyCar.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C6_Inheritance_Ex/NeedForSpeed/FamilyCar.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C6_Inheritance_Ex/NeedForSpeed/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C6_Inheritance_Ex/NeedForSpeed/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C6_Inheritance_Ex/NeedForSpeed/Motorcycle.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C6_Inheritance_Ex/NeedForSpeed/Motorcycle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C6_Inheritance_Ex/NeedForSpeed/RaceMotorcycle.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C6_Inheritance_Ex/NeedForSpeed/RaceMotorcycle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C6_Inheritance_Ex/NeedForSpeed/SportCar.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C6_Inheritance_Ex/NeedForSpeed/SportCar.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C6_Inheritance_Ex/NeedForSpeed/Vehicle.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C6_Inheritance_Ex/NeedForSpeed/Vehicle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C6_Inheritance_Ex/animals/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C6_Inheritance_Ex/animals/Animal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C6_Inheritance_Ex/animals/Cat.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C6_Inheritance_Ex/animals/Cat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C6_Inheritance_Ex/animals/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C6_Inheritance_Ex/animals/Dog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C6_Inheritance_Ex/animals/Frog.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C6_Inheritance_Ex/animals/Frog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C6_Inheritance_Ex/animals/Kitten.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C6_Inheritance_Ex/animals/Kitten.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C6_Inheritance_Ex/animals/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C6_Inheritance_Ex/animals/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C6_Inheritance_Ex/animals/Tomcat.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C6_Inheritance_Ex/animals/Tomcat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C6_Inheritance_Ex/hero/BladeKnight.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C6_Inheritance_Ex/hero/BladeKnight.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C6_Inheritance_Ex/hero/DarkKnight.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C6_Inheritance_Ex/hero/DarkKnight.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C6_Inheritance_Ex/hero/DarkWizard.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C6_Inheritance_Ex/hero/DarkWizard.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C6_Inheritance_Ex/hero/Elf.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C6_Inheritance_Ex/hero/Elf.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C6_Inheritance_Ex/hero/Hero.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C6_Inheritance_Ex/hero/Hero.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C6_Inheritance_Ex/hero/Knight.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C6_Inheritance_Ex/hero/Knight.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C6_Inheritance_Ex/hero/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C6_Inheritance_Ex/hero/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C6_Inheritance_Ex/hero/MuseElf.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C6_Inheritance_Ex/hero/MuseElf.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C6_Inheritance_Ex/hero/SoulMaster.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C6_Inheritance_Ex/hero/SoulMaster.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C6_Inheritance_Ex/hero/Wizard.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C6_Inheritance_Ex/hero/Wizard.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C6_Inheritance_Ex/restaurant/Beverage.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C6_Inheritance_Ex/restaurant/Beverage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C6_Inheritance_Ex/restaurant/Cake.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C6_Inheritance_Ex/restaurant/Cake.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C6_Inheritance_Ex/restaurant/Coffee.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C6_Inheritance_Ex/restaurant/Coffee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C6_Inheritance_Ex/restaurant/ColdBeverage.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C6_Inheritance_Ex/restaurant/ColdBeverage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C6_Inheritance_Ex/restaurant/Dessert.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C6_Inheritance_Ex/restaurant/Dessert.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C6_Inheritance_Ex/restaurant/Food.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C6_Inheritance_Ex/restaurant/Food.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C6_Inheritance_Ex/restaurant/HotBeverage.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C6_Inheritance_Ex/restaurant/HotBeverage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C6_Inheritance_Ex/restaurant/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C6_Inheritance_Ex/restaurant/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C6_Inheritance_Ex/restaurant/MainDish.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C6_Inheritance_Ex/restaurant/MainDish.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C6_Inheritance_Ex/restaurant/Product.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C6_Inheritance_Ex/restaurant/Product.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C6_Inheritance_Ex/restaurant/Salmon.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C6_Inheritance_Ex/restaurant/Salmon.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C6_Inheritance_Ex/restaurant/Soup.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C6_Inheritance_Ex/restaurant/Soup.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C6_Inheritance_Ex/restaurant/Starter.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C6_Inheritance_Ex/restaurant/Starter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C6_Inheritance_Ex/restaurant/Tea.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C6_Inheritance_Ex/restaurant/Tea.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C6_Inheritance_Ex/zoo/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C6_Inheritance_Ex/zoo/Animal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C6_Inheritance_Ex/zoo/Bear.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C6_Inheritance_Ex/zoo/Bear.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C6_Inheritance_Ex/zoo/Gorilla.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C6_Inheritance_Ex/zoo/Gorilla.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C6_Inheritance_Ex/zoo/Lizard.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C6_Inheritance_Ex/zoo/Lizard.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C6_Inheritance_Ex/zoo/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C6_Inheritance_Ex/zoo/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C6_Inheritance_Ex/zoo/Mammal.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C6_Inheritance_Ex/zoo/Mammal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C6_Inheritance_Ex/zoo/Reptile.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C6_Inheritance_Ex/zoo/Reptile.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C6_Inheritance_Ex/zoo/Snake.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C6_Inheritance_Ex/zoo/Snake.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C7_INTERFACES_AND_ABSTRACTION/BorderControl/Citizen.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C7_INTERFACES_AND_ABSTRACTION/BorderControl/Citizen.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C7_INTERFACES_AND_ABSTRACTION/BorderControl/Identifiable.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C7_INTERFACES_AND_ABSTRACTION/BorderControl/Identifiable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C7_INTERFACES_AND_ABSTRACTION/BorderControl/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C7_INTERFACES_AND_ABSTRACTION/BorderControl/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C7_INTERFACES_AND_ABSTRACTION/BorderControl/Robot.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C7_INTERFACES_AND_ABSTRACTION/BorderControl/Robot.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C7_INTERFACES_AND_ABSTRACTION/CarShop/Audi.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C7_INTERFACES_AND_ABSTRACTION/CarShop/Audi.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C7_INTERFACES_AND_ABSTRACTION/CarShop/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C7_INTERFACES_AND_ABSTRACTION/CarShop/Car.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C7_INTERFACES_AND_ABSTRACTION/CarShop/CarImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C7_INTERFACES_AND_ABSTRACTION/CarShop/CarImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C7_INTERFACES_AND_ABSTRACTION/CarShop/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C7_INTERFACES_AND_ABSTRACTION/CarShop/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C7_INTERFACES_AND_ABSTRACTION/CarShop/Rentable.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C7_INTERFACES_AND_ABSTRACTION/CarShop/Rentable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C7_INTERFACES_AND_ABSTRACTION/CarShop/Seat.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C7_INTERFACES_AND_ABSTRACTION/CarShop/Seat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C7_INTERFACES_AND_ABSTRACTION/CarShop/Sellable.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C7_INTERFACES_AND_ABSTRACTION/CarShop/Sellable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C7_INTERFACES_AND_ABSTRACTION/Car_Shop/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C7_INTERFACES_AND_ABSTRACTION/Car_Shop/Car.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C7_INTERFACES_AND_ABSTRACTION/Car_Shop/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C7_INTERFACES_AND_ABSTRACTION/Car_Shop/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C7_INTERFACES_AND_ABSTRACTION/Car_Shop/Seat.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C7_INTERFACES_AND_ABSTRACTION/Car_Shop/Seat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C7_INTERFACES_AND_ABSTRACTION/Ferrari/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C7_INTERFACES_AND_ABSTRACTION/Ferrari/Car.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C7_INTERFACES_AND_ABSTRACTION/Ferrari/Ferrari.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C7_INTERFACES_AND_ABSTRACTION/Ferrari/Ferrari.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C7_INTERFACES_AND_ABSTRACTION/Ferrari/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C7_INTERFACES_AND_ABSTRACTION/Ferrari/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C7_INTERFACES_AND_ABSTRACTION/SayHello/Bulgarian.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C7_INTERFACES_AND_ABSTRACTION/SayHello/Bulgarian.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C7_INTERFACES_AND_ABSTRACTION/SayHello/Chinese.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C7_INTERFACES_AND_ABSTRACTION/SayHello/Chinese.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C7_INTERFACES_AND_ABSTRACTION/SayHello/European.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C7_INTERFACES_AND_ABSTRACTION/SayHello/European.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C7_INTERFACES_AND_ABSTRACTION/SayHello/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C7_INTERFACES_AND_ABSTRACTION/SayHello/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C7_INTERFACES_AND_ABSTRACTION/SayHello/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C7_INTERFACES_AND_ABSTRACTION/SayHello/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C7_INTERFACES_AND_ABSTRACTION/SayHelloExtend/BasePerson.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C7_INTERFACES_AND_ABSTRACTION/SayHelloExtend/BasePerson.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C7_INTERFACES_AND_ABSTRACTION/SayHelloExtend/Bulgarian.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C7_INTERFACES_AND_ABSTRACTION/SayHelloExtend/Bulgarian.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C7_INTERFACES_AND_ABSTRACTION/SayHelloExtend/Chinese.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C7_INTERFACES_AND_ABSTRACTION/SayHelloExtend/Chinese.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C7_INTERFACES_AND_ABSTRACTION/SayHelloExtend/European.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C7_INTERFACES_AND_ABSTRACTION/SayHelloExtend/European.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C7_INTERFACES_AND_ABSTRACTION/SayHelloExtend/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C7_INTERFACES_AND_ABSTRACTION/SayHelloExtend/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C7_INTERFACES_AND_ABSTRACTION/SayHelloExtend/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C7_INTERFACES_AND_ABSTRACTION/SayHelloExtend/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C8_INTERFACES_AND_ABSTRACTION_EX/C1_Define_an_Interface_Person/Citizen.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C8_INTERFACES_AND_ABSTRACTION_EX/C1_Define_an_Interface_Person/Citizen.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C8_INTERFACES_AND_ABSTRACTION_EX/C1_Define_an_Interface_Person/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C8_INTERFACES_AND_ABSTRACTION_EX/C1_Define_an_Interface_Person/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C8_INTERFACES_AND_ABSTRACTION_EX/C1_Define_an_Interface_Person/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C8_INTERFACES_AND_ABSTRACTION_EX/C1_Define_an_Interface_Person/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C8_INTERFACES_AND_ABSTRACTION_EX/C2_Multiple_Implementation/Birthable.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C8_INTERFACES_AND_ABSTRACTION_EX/C2_Multiple_Implementation/Birthable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C8_INTERFACES_AND_ABSTRACTION_EX/C2_Multiple_Implementation/Citizen.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C8_INTERFACES_AND_ABSTRACTION_EX/C2_Multiple_Implementation/Citizen.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C8_INTERFACES_AND_ABSTRACTION_EX/C2_Multiple_Implementation/Identifiable.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C8_INTERFACES_AND_ABSTRACTION_EX/C2_Multiple_Implementation/Identifiable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C8_INTERFACES_AND_ABSTRACTION_EX/C2_Multiple_Implementation/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C8_INTERFACES_AND_ABSTRACTION_EX/C2_Multiple_Implementation/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C8_INTERFACES_AND_ABSTRACTION_EX/C2_Multiple_Implementation/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C8_INTERFACES_AND_ABSTRACTION_EX/C2_Multiple_Implementation/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C8_INTERFACES_AND_ABSTRACTION_EX/C3_Birthday_Celebrations/Birthable.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C8_INTERFACES_AND_ABSTRACTION_EX/C3_Birthday_Celebrations/Birthable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C8_INTERFACES_AND_ABSTRACTION_EX/C3_Birthday_Celebrations/Citizen.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C8_INTERFACES_AND_ABSTRACTION_EX/C3_Birthday_Celebrations/Citizen.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C8_INTERFACES_AND_ABSTRACTION_EX/C3_Birthday_Celebrations/Identifiable.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C8_INTERFACES_AND_ABSTRACTION_EX/C3_Birthday_Celebrations/Identifiable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C8_INTERFACES_AND_ABSTRACTION_EX/C3_Birthday_Celebrations/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C8_INTERFACES_AND_ABSTRACTION_EX/C3_Birthday_Celebrations/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C8_INTERFACES_AND_ABSTRACTION_EX/C3_Birthday_Celebrations/Pet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C8_INTERFACES_AND_ABSTRACTION_EX/C3_Birthday_Celebrations/Pet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C8_INTERFACES_AND_ABSTRACTION_EX/C3_Birthday_Celebrations/Robot.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C8_INTERFACES_AND_ABSTRACTION_EX/C3_Birthday_Celebrations/Robot.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C8_INTERFACES_AND_ABSTRACTION_EX/C4_Food_Shortage/Buyer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C8_INTERFACES_AND_ABSTRACTION_EX/C4_Food_Shortage/Buyer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C8_INTERFACES_AND_ABSTRACTION_EX/C4_Food_Shortage/Citizen.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C8_INTERFACES_AND_ABSTRACTION_EX/C4_Food_Shortage/Citizen.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C8_INTERFACES_AND_ABSTRACTION_EX/C4_Food_Shortage/Identifiable.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C8_INTERFACES_AND_ABSTRACTION_EX/C4_Food_Shortage/Identifiable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C8_INTERFACES_AND_ABSTRACTION_EX/C4_Food_Shortage/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C8_INTERFACES_AND_ABSTRACTION_EX/C4_Food_Shortage/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C8_INTERFACES_AND_ABSTRACTION_EX/C4_Food_Shortage/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C8_INTERFACES_AND_ABSTRACTION_EX/C4_Food_Shortage/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C8_INTERFACES_AND_ABSTRACTION_EX/C4_Food_Shortage/Rebel.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C8_INTERFACES_AND_ABSTRACTION_EX/C4_Food_Shortage/Rebel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C8_INTERFACES_AND_ABSTRACTION_EX/C5_Telephony/Browsable.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C8_INTERFACES_AND_ABSTRACTION_EX/C5_Telephony/Browsable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C8_INTERFACES_AND_ABSTRACTION_EX/C5_Telephony/Callable.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C8_INTERFACES_AND_ABSTRACTION_EX/C5_Telephony/Callable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C8_INTERFACES_AND_ABSTRACTION_EX/C5_Telephony/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C8_INTERFACES_AND_ABSTRACTION_EX/C5_Telephony/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C8_INTERFACES_AND_ABSTRACTION_EX/C5_Telephony/Smartphone.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C8_INTERFACES_AND_ABSTRACTION_EX/C5_Telephony/Smartphone.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C8_INTERFACES_AND_ABSTRACTION_EX/C6_militaryElite/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C8_INTERFACES_AND_ABSTRACTION_EX/C6_militaryElite/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C8_INTERFACES_AND_ABSTRACTION_EX/C6_militaryElite/entities/CommandoImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C8_INTERFACES_AND_ABSTRACTION_EX/C6_militaryElite/entities/CommandoImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C8_INTERFACES_AND_ABSTRACTION_EX/C6_militaryElite/entities/EngineerImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C8_INTERFACES_AND_ABSTRACTION_EX/C6_militaryElite/entities/EngineerImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C8_INTERFACES_AND_ABSTRACTION_EX/C6_militaryElite/entities/LieutenantGeneralImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C8_INTERFACES_AND_ABSTRACTION_EX/C6_militaryElite/entities/LieutenantGeneralImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C8_INTERFACES_AND_ABSTRACTION_EX/C6_militaryElite/entities/Mission.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C8_INTERFACES_AND_ABSTRACTION_EX/C6_militaryElite/entities/Mission.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C8_INTERFACES_AND_ABSTRACTION_EX/C6_militaryElite/entities/PrivateImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C8_INTERFACES_AND_ABSTRACTION_EX/C6_militaryElite/entities/PrivateImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C8_INTERFACES_AND_ABSTRACTION_EX/C6_militaryElite/entities/Repair.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C8_INTERFACES_AND_ABSTRACTION_EX/C6_militaryElite/entities/Repair.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C8_INTERFACES_AND_ABSTRACTION_EX/C6_militaryElite/entities/SoldierImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C8_INTERFACES_AND_ABSTRACTION_EX/C6_militaryElite/entities/SoldierImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C8_INTERFACES_AND_ABSTRACTION_EX/C6_militaryElite/entities/SpecialisedSoldierImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C8_INTERFACES_AND_ABSTRACTION_EX/C6_militaryElite/entities/SpecialisedSoldierImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C8_INTERFACES_AND_ABSTRACTION_EX/C6_militaryElite/entities/SpyImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C8_INTERFACES_AND_ABSTRACTION_EX/C6_militaryElite/entities/SpyImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C8_INTERFACES_AND_ABSTRACTION_EX/C6_militaryElite/enums/Corp.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C8_INTERFACES_AND_ABSTRACTION_EX/C6_militaryElite/enums/Corp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C8_INTERFACES_AND_ABSTRACTION_EX/C6_militaryElite/enums/State.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C8_INTERFACES_AND_ABSTRACTION_EX/C6_militaryElite/enums/State.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C8_INTERFACES_AND_ABSTRACTION_EX/C6_militaryElite/interfaces/Commando.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C8_INTERFACES_AND_ABSTRACTION_EX/C6_militaryElite/interfaces/Commando.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C8_INTERFACES_AND_ABSTRACTION_EX/C6_militaryElite/interfaces/Engineer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C8_INTERFACES_AND_ABSTRACTION_EX/C6_militaryElite/interfaces/Engineer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C8_INTERFACES_AND_ABSTRACTION_EX/C6_militaryElite/interfaces/LieutenantGeneral.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C8_INTERFACES_AND_ABSTRACTION_EX/C6_militaryElite/interfaces/LieutenantGeneral.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C8_INTERFACES_AND_ABSTRACTION_EX/C6_militaryElite/interfaces/Private.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C8_INTERFACES_AND_ABSTRACTION_EX/C6_militaryElite/interfaces/Private.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C8_INTERFACES_AND_ABSTRACTION_EX/C6_militaryElite/interfaces/Soldier.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C8_INTERFACES_AND_ABSTRACTION_EX/C6_militaryElite/interfaces/Soldier.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C8_INTERFACES_AND_ABSTRACTION_EX/C6_militaryElite/interfaces/SpecialisedSoldier.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C8_INTERFACES_AND_ABSTRACTION_EX/C6_militaryElite/interfaces/SpecialisedSoldier.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C8_INTERFACES_AND_ABSTRACTION_EX/C6_militaryElite/interfaces/Spy.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C8_INTERFACES_AND_ABSTRACTION_EX/C6_militaryElite/interfaces/Spy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C8_INTERFACES_AND_ABSTRACTION_EX/C7_collectionHierarchy/AddCollection.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C8_INTERFACES_AND_ABSTRACTION_EX/C7_collectionHierarchy/AddCollection.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C8_INTERFACES_AND_ABSTRACTION_EX/C7_collectionHierarchy/AddRemovable.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C8_INTERFACES_AND_ABSTRACTION_EX/C7_collectionHierarchy/AddRemovable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C8_INTERFACES_AND_ABSTRACTION_EX/C7_collectionHierarchy/AddRemoveCollection.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C8_INTERFACES_AND_ABSTRACTION_EX/C7_collectionHierarchy/AddRemoveCollection.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C8_INTERFACES_AND_ABSTRACTION_EX/C7_collectionHierarchy/Addable.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C8_INTERFACES_AND_ABSTRACTION_EX/C7_collectionHierarchy/Addable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C8_INTERFACES_AND_ABSTRACTION_EX/C7_collectionHierarchy/Collection.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C8_INTERFACES_AND_ABSTRACTION_EX/C7_collectionHierarchy/Collection.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C8_INTERFACES_AND_ABSTRACTION_EX/C7_collectionHierarchy/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C8_INTERFACES_AND_ABSTRACTION_EX/C7_collectionHierarchy/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C8_INTERFACES_AND_ABSTRACTION_EX/C7_collectionHierarchy/MyList.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C8_INTERFACES_AND_ABSTRACTION_EX/C7_collectionHierarchy/MyList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C8_INTERFACES_AND_ABSTRACTION_EX/C7_collectionHierarchy/MyListImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C8_INTERFACES_AND_ABSTRACTION_EX/C7_collectionHierarchy/MyListImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C9_Polymorphism/C1_Math_Operation/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C9_Polymorphism/C1_Math_Operation/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C9_Polymorphism/C1_Math_Operation/MathOperation.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C9_Polymorphism/C1_Math_Operation/MathOperation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C9_Polymorphism/C2_Shapes/Circle.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C9_Polymorphism/C2_Shapes/Circle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C9_Polymorphism/C2_Shapes/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C9_Polymorphism/C2_Shapes/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C9_Polymorphism/C2_Shapes/Rectangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C9_Polymorphism/C2_Shapes/Rectangle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C9_Polymorphism/C2_Shapes/Shape.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C9_Polymorphism/C2_Shapes/Shape.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C9_Polymorphism/C3_Animals/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C9_Polymorphism/C3_Animals/Animal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C9_Polymorphism/C3_Animals/Cat.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C9_Polymorphism/C3_Animals/Cat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C9_Polymorphism/C3_Animals/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C9_Polymorphism/C3_Animals/Dog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C9_Polymorphism/C3_Animals/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/C9_Polymorphism/C3_Animals/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/FootballTeamGenerator/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/FootballTeamGenerator/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/FootballTeamGenerator/Player.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/FootballTeamGenerator/Player.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/out/production/OOP/FootballTeamGenerator/Team.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/out/production/OOP/FootballTeamGenerator/Team.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="-116720854">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="4" />
-          <entry key="project.open.time.0" value="1" />
-          <entry key="project.open.time.1" value="1" />
-          <entry key="project.open.time.5" value="1" />
-          <entry key="project.open.time.53" value="1" />
-          <entry key="project.opened" value="4" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="iml" value="1" />
-          <entry key="java" value="131" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="131" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="java" value="2139" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="JAVA" value="2139" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/cresla/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-7">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/cresla/entities/Reactors.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="386">
-              <caret line="29" column="5" lean-forward="true" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/cresla/entities/CryoReactor.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="43" selection-start-line="2" selection-start-column="43" selection-end-line="2" selection-end-column="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/cresla/entities/ManagerImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-545">
-              <caret line="57" column="57" lean-forward="true" selection-start-line="57" selection-start-column="57" selection-end-line="57" selection-end-column="57" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -101,28 +353,8 @@
       </list>
     </option>
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/cresla/interfaces/Reactor.java" />
-        <option value="$PROJECT_DIR$/src/cresla/entities/containers/Modules.java" />
-        <option value="$PROJECT_DIR$/src/cresla/entities/Modules.java" />
-        <option value="$PROJECT_DIR$/src/cresla/entities/HeatProcessor.java" />
-        <option value="$PROJECT_DIR$/src/cresla/entities/HeatReactor.java" />
-        <option value="$PROJECT_DIR$/src/cresla/entities/CooldownSystem.java" />
-        <option value="$PROJECT_DIR$/src/cresla/Main.java" />
-        <option value="$PROJECT_DIR$/src/cresla/entities/ManagerImpl.java" />
-        <option value="$PROJECT_DIR$/src/cresla/entities/Reactors.java" />
-        <option value="$PROJECT_DIR$/src/cresla/entities/CryogenRod.java" />
-        <option value="$PROJECT_DIR$/src/cresla/entities/CryoReactor.java" />
-      </list>
-    </option>
-  </component>
-  <component name="MavenProjectNavigator">
-    <treeState>
-      <expand />
-      <select />
-    </treeState>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
@@ -130,87 +362,19 @@
     <option name="width" value="1382" />
     <option name="height" value="744" />
   </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Cresla" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Cresla" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Cresla" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Cresla" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Cresla" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Cresla" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="cresla" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Cresla" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Cresla" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="cresla" type="462c0819:PsiDirectoryNode" />
-              <item name="entities" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Cresla" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Cresla" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="cresla" type="462c0819:PsiDirectoryNode" />
-              <item name="entities" type="462c0819:PsiDirectoryNode" />
-              <item name="containers" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Cresla" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Cresla" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="cresla" type="462c0819:PsiDirectoryNode" />
-              <item name="interfaces" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Cresla" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-            <path>
-              <item name="Cresla" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-    </panes>
+  <component name="ProjectId" id="1sJ2YnNFVPRi8FjpFnqEvi1P0gm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1617679492953" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Java OOP Retake Exam - 19 Dec 2020/ViceCity" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -245,68 +409,11 @@
     </task>
     <servers />
   </component>
-  <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
-    <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24886535" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3289689" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39934534" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Messages" order="10" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Palette&#9;" order="6" />
-      <window_info anchor="right" id="Maven Projects" order="7" weight="0.32980332" />
-    </layout>
-    <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24508321" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3289689" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39934534" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Messages" order="10" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Palette&#9;" order="6" />
-      <window_info anchor="right" id="Maven Projects" order="7" weight="0.32980332" />
-    </layout-to-restore>
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
+  <component name="WindowStateProjectService">
+    <state x="463" y="121" key="FileChooserDialogImpl" timestamp="1620576465196">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="121" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1620576465196" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -319,158 +426,6 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/cresla/interfaces/Module.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cresla/interfaces/Manager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cresla/interfaces/Identifiable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cresla/interfaces/InputReader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cresla/interfaces/Container.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cresla/interfaces/AbsorbingModule.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cresla/interfaces/OutputWriter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cresla/interfaces/EnergyModule.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cresla/interfaces/Reactor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Cresla.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cresla/entities/HeatProcessor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="36" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cresla/entities/containers/ModuleContainer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="714">
-          <caret line="47" selection-start-line="47" selection-end-line="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cresla/entities/CooldownSystem.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="14" column="33" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cresla/entities/Modules.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-          <folding>
-            <element signature="e#161#162#0" expanded="true" />
-            <element signature="e#189#190#0" expanded="true" />
-            <element signature="e#259#260#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cresla/entities/CryogenRod.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="49" selection-start-line="7" selection-start-column="49" selection-end-line="7" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cresla/entities/CryoReactor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="43" selection-start-line="2" selection-start-column="43" selection-end-line="2" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cresla/entities/HeatReactor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cresla/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cresla/entities/Reactors.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="386">
-          <caret line="29" column="5" lean-forward="true" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cresla/entities/ManagerImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-545">
-          <caret line="57" column="57" lean-forward="true" selection-start-line="57" selection-start-column="57" selection-end-line="57" selection-end-column="57" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
   </component>
   <component name="masterDetails">
     <states>
