@@ -21,7 +21,6 @@ public class DriverRepository implements Repository<Driver> {
 
     @Override
     public Collection<Driver> getAll() {
-
         return this.drivers;
     }
 

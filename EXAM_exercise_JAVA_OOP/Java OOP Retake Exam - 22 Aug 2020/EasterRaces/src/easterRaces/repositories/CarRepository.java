@@ -32,7 +32,6 @@ public class CarRepository implements Repository<Car> {
 
     @Override
     public boolean remove(Car model) {
-
         return this.cars.removeIf (f -> f.getModel ().equals (model));
     }
 }

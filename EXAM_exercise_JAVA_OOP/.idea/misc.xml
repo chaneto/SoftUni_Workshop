@@ -1,4 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_16" project-jdk-name="16" project-jdk-type="JavaSDK" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/new/Java OOP Exam - 12 Apr 2020/HalfLife/pom.xml" />
+        <option value="$PROJECT_DIR$/new/Java OOP Exam - 12 Apr 2020/CounterStriker/pom.xml" />
+        <option value="$PROJECT_DIR$/new/Java OOP Exam - 12 Dec 2020/BankSafe/pom.xml" />
+        <option value="$PROJECT_DIR$/new/Java OOP Exam - 16 Aug 2020/Computers/pom.xml" />
+        <option value="$PROJECT_DIR$/new/Java OOP Retake Exam - 19 Dec 2020/BlueOrigin/pom.xml" />
+        <option value="$PROJECT_DIR$/new/Java OOP Retake Exam - 22 Aug 2020/Garage/pom.xml" />
+        <option value="$PROJECT_DIR$/new`1/Bakery_Folder/BankSafe/pom.xml" />
+        <option value="$PROJECT_DIR$/new`1/Cresla_Folder/BankAccount/pom.xml" />
+        <option value="$PROJECT_DIR$/new`1/ViceCity_Folder/BlueOrigin/pom.xml" />
+        <option value="$PROJECT_DIR$/new`1/OnlineShop_Folder/Computers/pom.xml" />
+        <option value="$PROJECT_DIR$/new`1/EasterRaces_Folder/Garage/pom.xml" />
+        <option value="$PROJECT_DIR$/new`1/CounterStriker_Folder/HalfLife/pom.xml" />
+        <option value="$PROJECT_DIR$/new`1/CounterStriker_Folder/CounterStriker/pom.xml" />
+        <option value="$PROJECT_DIR$/Exam_Preparation_!/CarTrip/pom.xml" />
+        <option value="$PROJECT_DIR$/Java OOP Exam - 12 Apr 2020/HalfLife/pom.xml" />
+        <option value="$PROJECT_DIR$/Java OOP Exam - 12 Apr 2020/CounterStriker/pom.xml" />
+        <option value="$PROJECT_DIR$/Java OOP Exam - 12 Apr 2020/Java OOP Exam - 20 August 2020/Store/pom.xml" />
+        <option value="$PROJECT_DIR$/Java OOP Exam - 12 Dec 2020/BankSafe/pom.xml" />
+        <option value="$PROJECT_DIR$/Java OOP Exam - 16 Aug 2020/Computers/pom.xml" />
+        <option value="$PROJECT_DIR$/Java OOP Exam Preparation II/BankAccount/pom.xml" />
+        <option value="$PROJECT_DIR$/Java OOP Retake Exam - 19 Dec 2020/BlueOrigin/pom.xml" />
+        <option value="$PROJECT_DIR$/Java OOP Retake Exam - 22 Aug 2020/Garage/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_16" default="true" project-jdk-name="16" project-jdk-type="JavaSDK" />
 </project>
