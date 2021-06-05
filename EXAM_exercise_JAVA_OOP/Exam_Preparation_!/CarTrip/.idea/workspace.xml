@@ -4,87 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a829e535-b35e-4647-a357-c564ab03e8a3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CarTrip.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP Exam - 12 Apr 2020/CounterStriker/ConuterStriker (2).iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP Exam - 12 Apr 2020/HalfLife/HalfLife (2).iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP Exam - 12 Apr 2020/Java OOP Exam - 20 August 2020/Store/Store.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP Exam - 12 Dec 2020/BankSafe/BankSafe (2).iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP Exam - 16 Aug 2020/Computers/Computers (2).iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP Exam Preparation II/BankAccount/BankAccount (1).iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP Retake Exam - 19 Dec 2020/BlueOrigin/rpg-exam (2).iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java OOP Retake Exam - 22 Aug 2020/Garage/Garage (2).iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../new/Java OOP Exam - 12 Apr 2020/CounterStriker/ConuterStriker.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../new/Java OOP Exam - 12 Apr 2020/CounterStriker/CounterStriker.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../new/Java OOP Exam - 12 Apr 2020/HalfLife/HalfLife.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../new/Java OOP Exam - 12 Dec 2020/Bakery/Bakery.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../new/Java OOP Exam - 12 Dec 2020/BankSafe/BankSafe.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../new/Java OOP Exam - 16 Aug 2020/Computers/Computers.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../new/Java OOP Exam - 16 Aug 2020/OnlineShop/OnlineShop.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../new/Java OOP Retake Exam - 19 Dec 2020/BlueOrigin/BlueOrigin.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../new/Java OOP Retake Exam - 19 Dec 2020/BlueOrigin/rpg-exam.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../new/Java OOP Retake Exam - 19 Dec 2020/ViceCity/ViceCity.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../new/Java OOP Retake Exam - 22 Aug 2020/EasterRaces/EasterRaces.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../new/Java OOP Retake Exam - 22 Aug 2020/Garage/Garage.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../new`1/Bakery_Folder/Bakery/Bakery.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../new`1/Bakery_Folder/BankSafe/BankSafe (1).iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../new`1/Bakery_Folder/BankSafe/BankSafe.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../new`1/CounterStriker_Folder/CounterStriker/ConuterStriker (1).iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../new`1/CounterStriker_Folder/CounterStriker/CounterStriker.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../new`1/CounterStriker_Folder/HalfLife/HalfLife (1).iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../new`1/CounterStriker_Folder/HalfLife/HalfLife.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../new`1/Cresla_Folder/BankAccount/BankAccount.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../new`1/Cresla_Folder/Cresla/Cresla.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../new`1/EasterRaces_Folder/EasterRaces/EasterRaces.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../new`1/EasterRaces_Folder/Garage/Garage (1).iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../new`1/OnlineShop_Folder/Computers/Computers (1).iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../new`1/OnlineShop_Folder/OnlineShop/OnlineShop.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../new`1/ViceCity_Folder/BlueOrigin/BlueOrigin.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../new`1/ViceCity_Folder/BlueOrigin/rpg-exam (1).iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../new`1/ViceCity_Folder/ViceCity/ViceCity.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.idea/EXAM_exercise_JAVA_OOP.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/EXAM_exercise_JAVA_OOP.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/carTrip/Car.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/carTrip/CarTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hell/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hell/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hell/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java OOP Exam - 12 Apr 2020/CounterStriker/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java OOP Exam - 12 Apr 2020/CounterStriker/target/classes/CounterStriker/models/guns/GunImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java OOP Exam - 12 Apr 2020/CounterStriker/target/classes/CounterStriker/models/guns/GunImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java OOP Exam - 12 Apr 2020/CounterStriker/target/classes/CounterStriker/models/players/PlayerImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java OOP Exam - 12 Apr 2020/CounterStriker/target/classes/CounterStriker/models/players/PlayerImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java OOP Exam - 12 Dec 2020/Bakery/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java OOP Exam - 12 Dec 2020/Bakery/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java OOP Exam - 12 Dec 2020/Bakery/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java OOP Exam - 12 Dec 2020/Bakery/out/production/Bakery/bakery.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java OOP Exam - 12 Dec 2020/Bakery/out/production/Bakery/bakery/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java OOP Exam - 12 Dec 2020/Bakery/out/production/Bakery/bakery/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java OOP Exam - 12 Dec 2020/Bakery/out/production/Bakery/bakery/entities/tables/BaseTable.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java OOP Exam - 12 Dec 2020/Bakery/out/production/Bakery/bakery/entities/tables/BaseTable.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java OOP Exam - 16 Aug 2020/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java OOP Exam - 16 Aug 2020/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java OOP Exam - 16 Aug 2020/.idea/Java OOP Exam - 16 Aug 2020.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java OOP Exam - 16 Aug 2020/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java OOP Exam - 16 Aug 2020/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java OOP Exam - 16 Aug 2020/.idea/libraries/Maven__junit_junit_4_12.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java OOP Exam - 16 Aug 2020/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java OOP Exam - 16 Aug 2020/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java OOP Exam - 16 Aug 2020/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java OOP Exam - 16 Aug 2020/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java OOP Exam - 16 Aug 2020/Computers/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java OOP Exam - 16 Aug 2020/Computers/Computers.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java OOP Exam - 16 Aug 2020/OnlineShop/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java OOP Exam - 16 Aug 2020/OnlineShop/out/production/OnlineShop/onlineShop/models/products/computers/BaseComputer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java OOP Exam - 16 Aug 2020/OnlineShop/out/production/OnlineShop/onlineShop/models/products/computers/BaseComputer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java OOP Exam Preparation II/Cresla/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java OOP Exam Preparation II/Cresla/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java OOP Exam Preparation II/Cresla/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java OOP Exam Preparation II/Cresla/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java OOP Retake Exam - 19 Dec 2020/ViceCity/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java OOP Retake Exam - 22 Aug 2020/EasterRaces/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java OOP Retake Exam - 22 Aug 2020/EasterRaces/src/easterRaces/repositories/CarRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java OOP Retake Exam - 22 Aug 2020/EasterRaces/src/easterRaces/repositories/CarRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java OOP Retake Exam - 22 Aug 2020/EasterRaces/src/easterRaces/repositories/DriverRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java OOP Retake Exam - 22 Aug 2020/EasterRaces/src/easterRaces/repositories/DriverRepository.java" afterDir="false" />
-    </list>
+    <list default="true" id="a829e535-b35e-4647-a357-c564ab03e8a3" name="Default Changelist" comment="EXAM_exercise_JAVA_OOP" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -121,6 +41,9 @@
         <option value="$PROJECT_DIR$/src/test/java/carTrip/CarTest.java" />
       </list>
     </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedIndex" value="2" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
@@ -341,8 +264,16 @@
       <option name="presentableId" value="Default" />
       <updated>1554816953959</updated>
       <workItem from="1554816958314" duration="767000" />
-      <workItem from="1622900313274" duration="373000" />
+      <workItem from="1622900313274" duration="704000" />
     </task>
+    <task id="LOCAL-00001" summary="EXAM_exercise_JAVA_OOP">
+      <created>1622900839112</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1622900839112</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -461,6 +392,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="EXAM_exercise_JAVA_OOP" />
+    <option name="LAST_COMMIT_MESSAGE" value="EXAM_exercise_JAVA_OOP" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/testFolder/ClassForTest.java" />
