@@ -1,85 +1,75 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="97a2f95a-8dbf-4bc9-a4bf-eff094499770" name="Default Changelist" comment="" />
-    <ignored path="$PROJECT_DIR$/out/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="97a2f95a-8dbf-4bc9-a4bf-eff094499770" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CarTrip/CarTrip.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../CarTrip/CarTrip.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/hell/hell.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/hell/hell/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/hell/hell/entities/Assassin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/hell/hell/entities/Barbarian.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/hell/hell/entities/CommonItem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/hell/hell/entities/EngineImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/hell/hell/entities/HeroInventory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/hell/hell/entities/Heroes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/hell/hell/entities/Items.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/hell/hell/entities/ManagerImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/hell/hell/entities/RecipeItem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/hell/hell/entities/Wizard.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/hell/hell/interfaces/Engine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/hell/hell/interfaces/Hero.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/hell/hell/interfaces/InputReader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/hell/hell/interfaces/Inventory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/hell/hell/interfaces/Item.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/hell/hell/interfaces/ItemCollection.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/hell/hell/interfaces/Manager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/hell/hell/interfaces/OutputWriter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/hell/hell/interfaces/Recipe.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hell/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hell/entities/Assassin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/entities/Assassin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hell/entities/Barbarian.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/entities/Barbarian.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hell/entities/CommonItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/entities/CommonItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hell/entities/EngineImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/entities/EngineImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hell/entities/HeroInventory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/entities/HeroInventory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hell/entities/Heroes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/entities/Heroes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hell/entities/Items.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/entities/Items.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hell/entities/ManagerImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/entities/ManagerImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hell/entities/RecipeItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/entities/RecipeItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hell/entities/Wizard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/entities/Wizard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hell/interfaces/Engine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interfaces/Engine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hell/interfaces/Hero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interfaces/Hero.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hell/interfaces/InputReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interfaces/InputReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hell/interfaces/Inventory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interfaces/Inventory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hell/interfaces/Item.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interfaces/Item.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hell/interfaces/ItemCollection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interfaces/ItemCollection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hell/interfaces/Manager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interfaces/Manager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hell/interfaces/OutputWriter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interfaces/OutputWriter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hell/interfaces/Recipe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interfaces/Recipe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java OOP Exam - 12 Apr 2020/CounterStriker/ConuterStriker (2).iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java OOP Exam - 12 Apr 2020/CounterStriker/ConuterStriker (2).iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java OOP Exam - 12 Apr 2020/HalfLife/HalfLife (2).iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java OOP Exam - 12 Apr 2020/HalfLife/HalfLife (2).iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java OOP Exam - 12 Apr 2020/Java OOP Exam - 20 August 2020/Store/Store.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java OOP Exam - 12 Apr 2020/Java OOP Exam - 20 August 2020/Store/Store.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java OOP Exam - 12 Dec 2020/BankSafe/BankSafe (2).iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java OOP Exam - 12 Dec 2020/BankSafe/BankSafe (2).iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java OOP Exam - 16 Aug 2020/Computers/Computers (2).iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java OOP Exam - 16 Aug 2020/Computers/Computers (2).iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java OOP Exam Preparation II/BankAccount/BankAccount (1).iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java OOP Exam Preparation II/BankAccount/BankAccount (1).iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java OOP Retake Exam - 19 Dec 2020/BlueOrigin/rpg-exam (2).iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java OOP Retake Exam - 19 Dec 2020/BlueOrigin/rpg-exam (2).iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java OOP Retake Exam - 22 Aug 2020/Garage/Garage (2).iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java OOP Retake Exam - 22 Aug 2020/Garage/Garage (2).iml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="2115408023">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="3" />
-          <entry key="project.open.time.0" value="1" />
-          <entry key="project.open.time.1" value="2" />
-          <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="4" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="java" value="43" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="JAVA" value="43" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="dummy" value="3" />
-          <entry key="java" value="838" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="JAVA" value="838" />
-          <entry key="PLAIN_TEXT" value="3" />
-        </counts>
-      </usages-collector>
-    </session>
-    <session id="518098775">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="11" />
-          <entry key="project.open.time.0" value="2" />
-          <entry key="project.open.time.1" value="2" />
-          <entry key="project.open.time.2" value="2" />
-          <entry key="project.open.time.20" value="1" />
-          <entry key="project.open.time.3" value="3" />
-          <entry key="project.open.time.72" value="1" />
-          <entry key="project.opened" value="11" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="java" value="20" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="JAVA" value="20" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="java" value="31" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="JAVA" value="31" />
-        </counts>
-      </usages-collector>
-    </session>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -107,6 +97,8 @@
     <option name="width" value="1318" />
     <option name="height" value="699" />
   </component>
+  <component name="ProjectId" id="1tX6LVJRTO8Eq88xZt4y0SdSKX4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -152,12 +144,21 @@
       </pane>
     </panes>
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1617605614884" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="terminal" />
   </component>
   <component name="RecentsManager">
@@ -166,25 +167,13 @@
       <recent name="C:\Users\chane_000\Downloads\hell" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hell.Main" />
+      <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="hell" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hell.*" />
+          <option name="PATTERN" value=".*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -192,12 +181,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="app" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="app" />
+      <module name="hell" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.app" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -208,6 +217,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1616673371045</updated>
+      <workItem from="1622903036211" duration="504000" />
     </task>
     <servers />
   </component>
@@ -270,8 +280,19 @@
       <window_info anchor="right" id="Maven Projects" order="7" />
     </layout-to-restore>
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />

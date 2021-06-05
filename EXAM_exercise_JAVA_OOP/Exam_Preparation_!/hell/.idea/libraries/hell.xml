@@ -1,8 +1,6 @@
 <component name="libraryTable">
   <library name="hell">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/out/production/hell/hell.zip!/" />
-    </CLASSES>
+    <CLASSES />
     <JAVADOC />
     <SOURCES />
   </library>

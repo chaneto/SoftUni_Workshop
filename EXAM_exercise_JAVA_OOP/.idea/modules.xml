@@ -2,28 +2,15 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/new`1/Cresla_Folder/BankAccount/BankAccount.iml" filepath="$PROJECT_DIR$/new`1/Cresla_Folder/BankAccount/BankAccount.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java OOP Exam Preparation II/BankAccount/BankAccount (1).iml" filepath="$PROJECT_DIR$/Java OOP Exam Preparation II/BankAccount/BankAccount (1).iml" />
-      <module fileurl="file://$PROJECT_DIR$/new/Java OOP Exam - 12 Dec 2020/BankSafe/BankSafe.iml" filepath="$PROJECT_DIR$/new/Java OOP Exam - 12 Dec 2020/BankSafe/BankSafe.iml" />
-      <module fileurl="file://$PROJECT_DIR$/new`1/Bakery_Folder/BankSafe/BankSafe (1).iml" filepath="$PROJECT_DIR$/new`1/Bakery_Folder/BankSafe/BankSafe (1).iml" />
       <module fileurl="file://$PROJECT_DIR$/Java OOP Exam - 12 Dec 2020/BankSafe/BankSafe (2).iml" filepath="$PROJECT_DIR$/Java OOP Exam - 12 Dec 2020/BankSafe/BankSafe (2).iml" />
       <module fileurl="file://$PROJECT_DIR$/Exam_Preparation_!/CarTrip/CarTrip.iml" filepath="$PROJECT_DIR$/Exam_Preparation_!/CarTrip/CarTrip.iml" />
-      <module fileurl="file://$PROJECT_DIR$/new/Java OOP Exam - 16 Aug 2020/Computers/Computers.iml" filepath="$PROJECT_DIR$/new/Java OOP Exam - 16 Aug 2020/Computers/Computers.iml" />
-      <module fileurl="file://$PROJECT_DIR$/new`1/OnlineShop_Folder/Computers/Computers (1).iml" filepath="$PROJECT_DIR$/new`1/OnlineShop_Folder/Computers/Computers (1).iml" />
       <module fileurl="file://$PROJECT_DIR$/Java OOP Exam - 16 Aug 2020/Computers/Computers (2).iml" filepath="$PROJECT_DIR$/Java OOP Exam - 16 Aug 2020/Computers/Computers (2).iml" />
-      <module fileurl="file://$PROJECT_DIR$/new/Java OOP Exam - 12 Apr 2020/CounterStriker/ConuterStriker.iml" filepath="$PROJECT_DIR$/new/Java OOP Exam - 12 Apr 2020/CounterStriker/ConuterStriker.iml" />
-      <module fileurl="file://$PROJECT_DIR$/new`1/CounterStriker_Folder/CounterStriker/ConuterStriker (1).iml" filepath="$PROJECT_DIR$/new`1/CounterStriker_Folder/CounterStriker/ConuterStriker (1).iml" />
       <module fileurl="file://$PROJECT_DIR$/Java OOP Exam - 12 Apr 2020/CounterStriker/ConuterStriker (2).iml" filepath="$PROJECT_DIR$/Java OOP Exam - 12 Apr 2020/CounterStriker/ConuterStriker (2).iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/EXAM_exercise_JAVA_OOP.iml" filepath="$PROJECT_DIR$/.idea/EXAM_exercise_JAVA_OOP.iml" />
-      <module fileurl="file://$PROJECT_DIR$/new/Java OOP Retake Exam - 22 Aug 2020/Garage/Garage.iml" filepath="$PROJECT_DIR$/new/Java OOP Retake Exam - 22 Aug 2020/Garage/Garage.iml" />
-      <module fileurl="file://$PROJECT_DIR$/new`1/EasterRaces_Folder/Garage/Garage (1).iml" filepath="$PROJECT_DIR$/new`1/EasterRaces_Folder/Garage/Garage (1).iml" />
       <module fileurl="file://$PROJECT_DIR$/Java OOP Retake Exam - 22 Aug 2020/Garage/Garage (2).iml" filepath="$PROJECT_DIR$/Java OOP Retake Exam - 22 Aug 2020/Garage/Garage (2).iml" />
-      <module fileurl="file://$PROJECT_DIR$/new/Java OOP Exam - 12 Apr 2020/HalfLife/HalfLife.iml" filepath="$PROJECT_DIR$/new/Java OOP Exam - 12 Apr 2020/HalfLife/HalfLife.iml" />
-      <module fileurl="file://$PROJECT_DIR$/new`1/CounterStriker_Folder/HalfLife/HalfLife (1).iml" filepath="$PROJECT_DIR$/new`1/CounterStriker_Folder/HalfLife/HalfLife (1).iml" />
       <module fileurl="file://$PROJECT_DIR$/Java OOP Exam - 12 Apr 2020/HalfLife/HalfLife (2).iml" filepath="$PROJECT_DIR$/Java OOP Exam - 12 Apr 2020/HalfLife/HalfLife (2).iml" />
       <module fileurl="file://$PROJECT_DIR$/Java OOP Exam - 12 Apr 2020/Java OOP Exam - 20 August 2020/Store/Store.iml" filepath="$PROJECT_DIR$/Java OOP Exam - 12 Apr 2020/Java OOP Exam - 20 August 2020/Store/Store.iml" />
-      <module fileurl="file://$PROJECT_DIR$/new/Java OOP Retake Exam - 19 Dec 2020/BlueOrigin/rpg-exam.iml" filepath="$PROJECT_DIR$/new/Java OOP Retake Exam - 19 Dec 2020/BlueOrigin/rpg-exam.iml" />
-      <module fileurl="file://$PROJECT_DIR$/new`1/ViceCity_Folder/BlueOrigin/rpg-exam (1).iml" filepath="$PROJECT_DIR$/new`1/ViceCity_Folder/BlueOrigin/rpg-exam (1).iml" />
       <module fileurl="file://$PROJECT_DIR$/Java OOP Retake Exam - 19 Dec 2020/BlueOrigin/rpg-exam (2).iml" filepath="$PROJECT_DIR$/Java OOP Retake Exam - 19 Dec 2020/BlueOrigin/rpg-exam (2).iml" />
     </modules>
   </component>
