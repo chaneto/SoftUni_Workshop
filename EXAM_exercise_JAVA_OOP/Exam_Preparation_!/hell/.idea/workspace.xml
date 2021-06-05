@@ -1,61 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="97a2f95a-8dbf-4bc9-a4bf-eff094499770" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CarTrip/CarTrip.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../CarTrip/CarTrip.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hell/hell.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hell/hell/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hell/hell/entities/Assassin.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hell/hell/entities/Barbarian.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hell/hell/entities/CommonItem.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hell/hell/entities/EngineImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hell/hell/entities/HeroInventory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hell/hell/entities/Heroes.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hell/hell/entities/Items.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hell/hell/entities/ManagerImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hell/hell/entities/RecipeItem.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hell/hell/entities/Wizard.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hell/hell/interfaces/Engine.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hell/hell/interfaces/Hero.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hell/hell/interfaces/InputReader.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hell/hell/interfaces/Inventory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hell/hell/interfaces/Item.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hell/hell/interfaces/ItemCollection.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hell/hell/interfaces/Manager.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hell/hell/interfaces/OutputWriter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hell/hell/interfaces/Recipe.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hell/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hell/entities/Assassin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/entities/Assassin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hell/entities/Barbarian.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/entities/Barbarian.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hell/entities/CommonItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/entities/CommonItem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hell/entities/EngineImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/entities/EngineImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hell/entities/HeroInventory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/entities/HeroInventory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hell/entities/Heroes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/entities/Heroes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hell/entities/Items.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/entities/Items.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hell/entities/ManagerImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/entities/ManagerImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hell/entities/RecipeItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/entities/RecipeItem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hell/entities/Wizard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/entities/Wizard.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hell/interfaces/Engine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interfaces/Engine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hell/interfaces/Hero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interfaces/Hero.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hell/interfaces/InputReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interfaces/InputReader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hell/interfaces/Inventory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interfaces/Inventory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hell/interfaces/Item.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interfaces/Item.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hell/interfaces/ItemCollection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interfaces/ItemCollection.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hell/interfaces/Manager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interfaces/Manager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hell/interfaces/OutputWriter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interfaces/OutputWriter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hell/interfaces/Recipe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interfaces/Recipe.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java OOP Exam - 12 Apr 2020/CounterStriker/ConuterStriker (2).iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java OOP Exam - 12 Apr 2020/CounterStriker/ConuterStriker (2).iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java OOP Exam - 12 Apr 2020/HalfLife/HalfLife (2).iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java OOP Exam - 12 Apr 2020/HalfLife/HalfLife (2).iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java OOP Exam - 12 Apr 2020/Java OOP Exam - 20 August 2020/Store/Store.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java OOP Exam - 12 Apr 2020/Java OOP Exam - 20 August 2020/Store/Store.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java OOP Exam - 12 Dec 2020/BankSafe/BankSafe (2).iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java OOP Exam - 12 Dec 2020/BankSafe/BankSafe (2).iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java OOP Exam - 16 Aug 2020/Computers/Computers (2).iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java OOP Exam - 16 Aug 2020/Computers/Computers (2).iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java OOP Exam Preparation II/BankAccount/BankAccount (1).iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java OOP Exam Preparation II/BankAccount/BankAccount (1).iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java OOP Retake Exam - 19 Dec 2020/BlueOrigin/rpg-exam (2).iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java OOP Retake Exam - 19 Dec 2020/BlueOrigin/rpg-exam (2).iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java OOP Retake Exam - 22 Aug 2020/Garage/Garage (2).iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java OOP Retake Exam - 22 Aug 2020/Garage/Garage (2).iml" afterDir="false" />
-    </list>
+    <list default="true" id="97a2f95a-8dbf-4bc9-a4bf-eff094499770" name="Default Changelist" comment="OOP" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -217,8 +163,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1616673371045</updated>
-      <workItem from="1622903036211" duration="504000" />
+      <workItem from="1622903036211" duration="1375000" />
     </task>
+    <task id="LOCAL-00001" summary="OOP">
+      <created>1622903809565</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1622903809565</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -293,6 +247,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="OOP" />
+    <option name="LAST_COMMIT_MESSAGE" value="OOP" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
