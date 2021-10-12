@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="97a2f95a-8dbf-4bc9-a4bf-eff094499770" name="Default Changelist" comment="OOP" />
+    <list default="true" id="97a2f95a-8dbf-4bc9-a4bf-eff094499770" name="Default Changelist" comment="OOP">
+      <change beforePath="$PROJECT_DIR$/src/interfaces/Engine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interfaces/Engine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interfaces/Manager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interfaces/Manager.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -134,13 +137,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -164,6 +169,7 @@
       <option name="presentableId" value="Default" />
       <updated>1616673371045</updated>
       <workItem from="1622903036211" duration="1375000" />
+      <workItem from="1623038979042" duration="370000" />
     </task>
     <task id="LOCAL-00001" summary="OOP">
       <created>1622903809565</created>
@@ -247,6 +253,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="OOP" />
