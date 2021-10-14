@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+      <head th:replace="/fragments/fragment :: head"></head>
+<body>
+        <header xmlns:h="http://xmlns.jcp.org/jsf/html">
+            <nav th:replace="/fragments/fragment :: nav"></nav>
+        </header>
+    <main>
+        <h1 class="text-center mt-2"><span class="badge badge-pill badge-dark">Add Product</span></h1>
+        <hr class="hr-3"/>
+        <form th:object="${productAddBindingModel}" action="/products/add"  method="POST" class="mx-auto w-25 bg-blur">
+            <div class="form-group">
+                <div class="text-white label-holder d-flex justify-content-center">
+                    <label for="name" class="h4 mb-2">Name</label>
+                </div>
+                <input type="text" class="form-control" id="name" name="name"/>
+            </div>
+            <div class="form-group">
+                <div class="text-white label-holder d-flex justify-content-center">
+                    <label for="description" class="h4 mb-2">Description</label>
+                </div>
+                <input type="text" class="form-control" id="description" name="description"/>
+            </div>
+            <div class="form-group">
+                <div class="text-white label-holder d-flex justify-content-center">
+                    <label for="category" class="h4 mb-2">Category</label>
+                </div>
+                <select styleClass="browser-default custom-select" id="category"
+                                 value="#{productCreateBean.productCreateModel.category}">
+                    <option >Shirt</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <div class="text-white label-holder d-flex justify-content-center">
+                    <label for="sex" class="h4 mb-2">Sex</label>
+                </div>
+                <select styleClass="browser-default custom-select" id="sex"
+                                 value="#{productCreateBean.productCreateModel.sex}">
+                    <option th:each="c : ${T(andrey.model.enums.SexEnum).values()}" th:text="${c}" th:value="${c}" value="SEX">Male</option>
+
+                </select>
+            </div>
+            <div class="form-group">
+                <div class="text-white label-holder d-flex justify-content-center">
+                    <label for="price" class="h4 mb-2">Price</label>
+                </div>
+                <input type="number" class="form-control" id="price" name="price"/>
+            </div>
+            <div class="button-holder d-flex justify-content-center">
+                <button type="submit" class="btn btn-secondary text-white mb-3">Add Product</button>
+            </div>
+        </form>
+    </main>
+    <footer th:replace="/fragments/fragment :: footer" class="footer bg-dark  py-2"></footer>
+</body>
+</html>
